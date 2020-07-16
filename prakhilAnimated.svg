@@ -1,0 +1,60 @@
+<svg width="665" height="92" viewBox="0 0 665 92" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="665" height="92" id="repeat" fill="#666" opacity="0" display="none">
+    <set attributeName="display" to="inline" begin="svgfill.end+0.5s" end="repeat.click;indefinite" />
+  </rect>
+  <path stroke-dasharray="359 359" stroke-dashoffset="359" d="M60.32 10.608V78H43.904V50.256H18.368V78H1.952V10.608H18.368V37.008H43.904V10.608H60.32Z" stroke="#232831" stroke-width="2" mask="url(#path-1-outside-1)">
+    <animate id="animateA" attributeName="stroke-dashoffset" from="359" to="0" begin="1s;repeat.click+0.25s" dur="1s" />
+    <set attributeName="stroke-dashoffset" to="0" begin="animateA.end" end="repeat.click;indefinite" />
+  </path>
+  <path stroke-dasharray="198" stroke-dashoffset="198" d="M80.4267 18.864C77.5467 18.864 75.1787 18.032 73.3227 16.368C71.5307 14.64 70.6347 12.528 70.6347 10.032C70.6347 7.472 71.5307 5.36 73.3227 3.696C75.1787 1.968 77.5467 1.104 80.4267 1.104C83.2427 1.104 85.5467 1.968 87.3387 3.696C89.1947 5.36 90.1227 7.472 90.1227 10.032C90.1227 12.528 89.1947 14.64 87.3387 16.368C85.5467 18.032 83.2427 18.864 80.4267 18.864ZM88.5867 24.432V78H72.1707V24.432H88.5867Z" stroke="#232831" stroke-width="2" mask="url(#path-1-outside-1)">
+    <animate id="animateB" attributeName="stroke-dashoffset" from="198" to="0" begin="animateA.end - 0.3s" dur="1s" />
+    <set attributeName="stroke-dashoffset" to="0" begin="animateB.end" end="repeat.click;indefinite" />
+  </path>
+  <path stroke-dasharray="83" stroke-dashoffset="83" d="M118.147 62.832L107.491 90.384H97.0272L102.595 62.832H118.147Z" stroke="#232831" stroke-width="2" mask="url(#path-1-outside-1)">
+    <animate id="animateC" attributeName="stroke-dashoffset" from="83" to="0" begin="animateB.end - 0.6s" dur="1s" />
+    <set attributeName="stroke-dashoffset" to="0" begin="animateC.end" end="repeat.click;indefinite" />
+  </path>
+  <path stroke-dasharray="167" stroke-dashoffset="167" d="M164.805 10.608V78H148.389V10.608H164.805Z" stroke="#232831" stroke-width="2" mask="url(#path-1-outside-1)">
+    <animate id="animateD" attributeName="stroke-dashoffset" from="167" to="0" begin="animateC.end - 0.9s" dur="1s" />
+    <set attributeName="stroke-dashoffset" to="0" begin="animateD.end" end="repeat.click;indefinite" />
+  </path>
+  <path stroke-dasharray="81" stroke-dashoffset="81" d="M180.446 10.608H197.246L186.494 36.336H175.454L180.446 10.608Z" stroke="#232831" stroke-width="2" mask="url(#path-1-outside-1)">
+    <animate id="animateE" attributeName="stroke-dashoffset" from="81" to="0" begin="animateD.end - 1.2s" dur="1s" />
+    <set attributeName="stroke-dashoffset" to="0" begin="animateE.end" end="repeat.click;indefinite" />
+  </path>
+  <path stroke-dasharray="438" stroke-dashoffset="438" d="M275.242 23.856C281.898 23.856 287.178 25.872 291.082 29.904C295.05 33.936 297.034 39.536 297.034 46.704V78H280.714V48.912C280.714 45.456 279.786 42.8 277.93 40.944C276.138 39.024 273.641 38.064 270.441 38.064C267.241 38.064 264.714 39.024 262.858 40.944C261.066 42.8 260.169 45.456 260.169 48.912V78H243.85V48.912C243.85 45.456 242.922 42.8 241.066 40.944C239.274 39.024 236.778 38.064 233.577 38.064C230.378 38.064 227.85 39.024 225.993 40.944C224.201 42.8 223.305 45.456 223.305 48.912V78H206.889V24.432H223.305V31.152C224.969 28.912 227.145 27.152 229.833 25.872C232.521 24.528 235.562 23.856 238.954 23.856C242.986 23.856 246.57 24.72 249.706 26.448C252.906 28.176 255.402 30.64 257.194 33.84C259.05 30.896 261.577 28.496 264.777 26.64C267.977 24.784 271.466 23.856 275.242 23.856Z" stroke="#232831" stroke-width="2" mask="url(#path-1-outside-1)">
+    <animate id="animateF" attributeName="stroke-dashoffset" from="438" to="0" begin="animateE.end - 1.5s" dur="1s" />
+    <set attributeName="stroke-dashoffset" to="0" begin="animateF.end" end="repeat.click;indefinite" />
+  </path>
+  <path stroke-dasharray="282" stroke-dashoffset="282" d="M380.218 32.304C380.218 36.208 379.322 39.792 377.53 43.056C375.738 46.256 372.986 48.848 369.274 50.832C365.562 52.816 360.954 53.808 355.45 53.808H345.274V78H328.858V10.608H355.45C360.826 10.608 365.37 11.536 369.082 13.392C372.794 15.248 375.578 17.808 377.434 21.072C379.29 24.336 380.218 28.08 380.218 32.304ZM354.202 40.752C357.338 40.752 359.674 40.016 361.21 38.544C362.746 37.072 363.514 34.992 363.514 32.304C363.514 29.616 362.746 27.536 361.21 26.064C359.674 24.592 357.338 23.856 354.202 23.856H345.274V40.752H354.202Z" stroke="#232831" stroke-width="2" mask="url(#path-1-outside-1)">
+    <animate id="animateG" attributeName="stroke-dashoffset" from="282" to="0" begin="animateF.end" dur="1s" />
+    <set attributeName="stroke-dashoffset" to="0" begin="animateG.end" end="repeat.click;indefinite" />
+  </path>
+  <path stroke-dasharray="182" stroke-dashoffset="182" d="M405.181 33.36C407.101 30.416 409.5 28.112 412.38 26.448C415.26 24.72 418.46 23.856 421.98 23.856V41.232H417.469C413.373 41.232 410.301 42.128 408.253 43.92C406.205 45.648 405.181 48.72 405.181 53.136V78H388.764V24.432H405.181V33.36Z" stroke="#232831" stroke-width="2" mask="url(#path-1-outside-1)">
+    <animate id="animateH" attributeName="stroke-dashoffset" from="182" to="0" begin="animateF.end + 0.3s" dur="1s" />
+    <set attributeName="stroke-dashoffset" to="0" begin="animateH.end" end="repeat.click;indefinite" />
+  </path>
+  <path stroke-dasharray="300" stroke-dashoffset="300" d="M426.563 51.12C426.563 45.616 427.587 40.784 429.635 36.624C431.747 32.464 434.595 29.264 438.179 27.024C441.763 24.784 445.763 23.664 450.179 23.664C453.955 23.664 457.251 24.432 460.067 25.968C462.947 27.504 465.155 29.52 466.691 32.016V24.432H483.107V78H466.691V70.416C465.091 72.912 462.851 74.928 459.971 76.464C457.155 78 453.859 78.768 450.083 78.768C445.731 78.768 441.763 77.648 438.179 75.408C434.595 73.104 431.747 69.872 429.635 65.712C427.587 61.488 426.563 56.624 426.563 51.12ZM466.691 51.216C466.691 47.12 465.539 43.888 463.235 41.52C460.995 39.152 458.243 37.968 454.979 37.968C451.715 37.968 448.931 39.152 446.627 41.52C444.387 43.824 443.267 47.024 443.267 51.12C443.267 55.216 444.387 58.48 446.627 60.912C448.931 63.28 451.715 64.464 454.979 64.464C458.243 64.464 460.995 63.28 463.235 60.912C465.539 58.544 466.691 55.312 466.691 51.216Z" stroke="#232831" stroke-width="2" mask="url(#path-1-outside-1)">
+    <animate id="animateI" attributeName="stroke-dashoffset" from="300" to="0" begin="animateF.end + 0.6s" dur="1s" />
+    <set attributeName="stroke-dashoffset" to="0" begin="animateI.end" end="repeat.click;indefinite" />
+  </path>
+  <path stroke-dasharray="330" stroke-dashoffset="330" d="M527.719 78L511.399 55.536V78H494.983V6.96001H511.399V46.224L527.623 24.432H547.879L525.607 51.312L548.071 78H527.719Z" stroke="#232831" stroke-width="2" mask="url(#path-1-outside-1)">
+    <animate id="animateJ" attributeName="stroke-dashoffset" from="330" to="0" begin="animateF.end + 0.9s" dur="1s" />
+    <set attributeName="stroke-dashoffset" to="0" begin="animateJ.end" end="repeat.click;indefinite" />
+  </path>
+  <path stroke-dasharray="332" stroke-dashoffset="332" d="M587.255 23.856C593.399 23.856 598.327 25.904 602.039 30C605.751 34.032 607.607 39.6 607.607 46.704V78H591.287V48.912C591.287 45.328 590.359 42.544 588.503 40.56C586.647 38.576 584.151 37.584 581.015 37.584C577.879 37.584 575.383 38.576 573.527 40.56C571.671 42.544 570.743 45.328 570.743 48.912V78H554.327V6.96001H570.743V31.632C572.407 29.264 574.679 27.376 577.559 25.968C580.439 24.56 583.671 23.856 587.255 23.856Z" stroke="#232831" stroke-width="2" mask="url(#path-1-outside-1)">
+    <animate id="animateK" attributeName="stroke-dashoffset" from="332" to="0" begin="animateF.end + 1.2s" dur="1s" />
+    <set attributeName="stroke-dashoffset" to="0" begin="animateK.end" end="repeat.click;indefinite" />
+  </path>
+  <path stroke-dasharray="198" stroke-dashoffset="198" d="M627.27 18.864C624.39 18.864 622.022 18.032 620.166 16.368C618.374 14.64 617.478 12.528 617.478 10.032C617.478 7.472 618.374 5.36 620.166 3.696C622.022 1.968 624.39 1.104 627.27 1.104C630.086 1.104 632.39 1.968 634.182 3.696C636.038 5.36 636.966 7.472 636.966 10.032C636.966 12.528 636.038 14.64 634.182 16.368C632.39 18.032 630.086 18.864 627.27 18.864ZM635.43 24.432V78H619.014V24.432H635.43Z" stroke="#232831" stroke-width="2" mask="url(#path-1-outside-1)">
+    <animate id="animateL" attributeName="stroke-dashoffset" from="198" to="0" begin="animateF.end + 1.5s" dur="1s" />
+    <set attributeName="stroke-dashoffset" to="0" begin="animateL.end" end="repeat.click;indefinite" />
+  </path>
+  <path stroke-dasharray="174" stroke-dashoffset="174" d="M663.743 6.96001V78H647.327V6.96001H663.743Z" stroke="#232831" stroke-width="2" mask="url(#path-1-outside-1)">
+    <animate id="animateM" attributeName="stroke-dashoffset" from="174" to="0" begin="animateF.end + 1.8s" dur="1s" />
+    <set attributeName="stroke-dashoffset" to="0" begin="animateM.end" end="repeat.click;indefinite" />
+  </path>
+
+  <animate id="svgfill" attributeName="fill" from="transparent" to="#232831" begin="animateM.end" dur=".5s" />
+  <set attributeName="fill" to="#232831" begin="svgfill.end" end="repeat.click;indefinite" />
+</svg>
