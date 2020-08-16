@@ -15,8 +15,8 @@
     <img
       src="https://github.com/Prakhil-tp/Prakhil-tp/blob/master/assets/twitter.png?raw=true"
       alt="twitter" 
-      width="40px"
-      height="40px"
+      width="30px"
+      height="30px"
     />
   </a>
 
@@ -24,8 +24,8 @@
     <img
       src="https://github.com/Prakhil-tp/Prakhil-tp/blob/master/assets/linkedin.png?raw=true"
       alt="linkedIn" 
-      width="40px"
-      height="40px"
+      width="30px"
+      height="30px"
     />
   </a>
 
@@ -33,8 +33,8 @@
     <img
       src="https://github.com/Prakhil-tp/Prakhil-tp/blob/master/assets/dev.png?raw=true"
       alt="dev" 
-      width="40px"
-      height="40px"
+      width="30px"
+      height="30px"
     />
   </a>
 
@@ -42,8 +42,8 @@
     <img
       src="https://github.com/Prakhil-tp/Prakhil-tp/blob/master/assets/mail.png?raw=true"
       alt="mail" 
-      width="40px"
-      height="40px"
+      width="30px"
+      height="30px"
     />
   </a>
 </p>

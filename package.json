@@ -1,0 +1,13 @@
+{
+  "name": "Prakhil-tp",
+  "version": "1.0.0",
+  "description": "Personal GitHub README",
+  "main": "index.js",
+  "repository": "https://github.com/Prakhil-tp/Prakhil-tp.git",
+  "author": "prakhil-tp <prakhil.tp@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Prakhil-tp/Prakhil-tp/issues"
+  },
+  "homepage": "https://github.com/Prakhil-tp/Prakhil-tp#readme"
+}
