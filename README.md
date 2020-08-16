@@ -6,16 +6,16 @@
 
 ### Recent Blog Posts
 
-- [React Native CLI and Android Studio: Setting up the development environment on Linux](https://dev.to/prakhil_tp/react-native-cli-and-android-studio-setting-up-the-development-environment-on-linux-4jp6) 
-- [Cron job for node scripts.](https://dev.to/prakhil_tp/cron-job-for-node-scripts-1fa6) 
-&nbsp;
+- [React Native CLI and Android Studio: Setting up the development environment on Linux](https://dev.to/prakhil_tp/react-native-cli-and-android-studio-setting-up-the-development-environment-on-linux-4jp6)
+- [Cron job for node scripts.](https://dev.to/prakhil_tp/cron-job-for-node-scripts-1fa6)
+  &nbsp;
 
 ---
 
 <p align="center">
   <a href="https://twitter.com/prakhil_tp">
     <img
-      src="https://github.com/Prakhil-tp/Prakhil-tp/blob/master/assets/twitter.png?raw=true"
+      src="https://raw.githubusercontent.com/Prakhil-tp/Prakhil-tp/8655022bc2e4df77c78eb64d978546c450c5ebe3/assets/twitter.svg"
       alt="twitter" 
       width="27px"
       height="27px"
@@ -24,7 +24,7 @@
 
   <a href="https://in.linkedin.com/in/prakhil-tp" font-size="20px">
     <img
-      src="https://github.com/Prakhil-tp/Prakhil-tp/blob/master/assets/linkedin.png?raw=true"
+      src="https://raw.githubusercontent.com/Prakhil-tp/Prakhil-tp/8655022bc2e4df77c78eb64d978546c450c5ebe3/assets/linkedin.svg"
       alt="linkedIn"
       width="30px"
       height="30px"
@@ -34,7 +34,7 @@
 
   <a href="https://dev.to/prakhil_tp">
     <img
-      src="https://github.com/Prakhil-tp/Prakhil-tp/blob/master/assets/dev.png?raw=true"
+      src="https://raw.githubusercontent.com/Prakhil-tp/Prakhil-tp/8655022bc2e4df77c78eb64d978546c450c5ebe3/assets/dev.svg"
       alt="dev" 
       width="35px"
       height="30px"
@@ -43,7 +43,7 @@
 
   <a href="mailto:prakhil.tp@gmail.com">
     <img
-      src="https://github.com/Prakhil-tp/Prakhil-tp/blob/master/assets/mail.png?raw=true"
+      src="https://raw.githubusercontent.com/Prakhil-tp/Prakhil-tp/8655022bc2e4df77c78eb64d978546c450c5ebe3/assets/mail.svg"
       alt="mail" 
       width="30px"
       height="30px"
