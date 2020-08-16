@@ -1,14 +1,14 @@
 <p align="center">
   <a href="#">
-    <img src="https://raw.githubusercontent.com/Prakhil-tp/Prakhil-tp/361b3fae09163b5988de29ffb43187653ec8d680/prakhilAnimated.svg" alt="i'm Prakhil" />
+    <img src="https://raw.githubusercontent.com/Prakhil-tp/Prakhil-tp/eabf12f7a9e644c21a92e3b7f1de46c767c8c084/assets/prakhilAnimated.svg" alt="i'm Prakhil" />
   </a>
 </p>
 
 ### Recent Blog Posts
 
-- [React Native CLI and Android Studio: Setting up the development environment on Linux](https://dev.to/prakhil_tp/react-native-cli-and-android-studio-setting-up-the-development-environment-on-linux-4jp6) 
-- [Cron job for node scripts.](https://dev.to/prakhil_tp/cron-job-for-node-scripts-1fa6) 
-&nbsp;
+- [React Native CLI and Android Studio: Setting up the development environment on Linux](https://dev.to/prakhil_tp/react-native-cli-and-android-studio-setting-up-the-development-environment-on-linux-4jp6)
+- [Cron job for node scripts.](https://dev.to/prakhil_tp/cron-job-for-node-scripts-1fa6)
+  &nbsp;
 
 ---
 
