@@ -6,9 +6,9 @@
 
 ### Recent Blog Posts
 
-- [React Native CLI and Android Studio: Setting up the development environment on Linux](https://dev.to/prakhil_tp/react-native-cli-and-android-studio-setting-up-the-development-environment-on-linux-4jp6) 
-- [Cron job for node scripts.](https://dev.to/prakhil_tp/cron-job-for-node-scripts-1fa6) 
-&nbsp;
+- [React Native CLI and Android Studio: Setting up the development environment on Linux](https://dev.to/prakhil_tp/react-native-cli-and-android-studio-setting-up-the-development-environment-on-linux-4jp6)
+- [Cron job for node scripts.](https://dev.to/prakhil_tp/cron-job-for-node-scripts-1fa6)
+  &nbsp;
 
 ---
 
@@ -17,25 +17,26 @@
     <img
       src="https://github.com/Prakhil-tp/Prakhil-tp/blob/master/assets/twitter.png?raw=true"
       alt="twitter" 
-      width="28px"
-      height="28px"
+      width="27px"
+      height="27px"
     />
   </a>
 
-  <a href="https://in.linkedin.com/in/prakhil-tp">
+  <a href="https://in.linkedin.com/in/prakhil-tp" font-size="20px">
     <img
       src="https://github.com/Prakhil-tp/Prakhil-tp/blob/master/assets/linkedin.png?raw=true"
-      alt="linkedIn" 
+      alt="linkedIn"
       width="30px"
       height="30px"
     />
+
   </a>
 
   <a href="https://dev.to/prakhil_tp">
     <img
       src="https://github.com/Prakhil-tp/Prakhil-tp/blob/master/assets/dev.png?raw=true"
       alt="dev" 
-      width="30px"
+      width="35px"
       height="30px"
     />
   </a>
