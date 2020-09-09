@@ -1,4 +1,4 @@
-const fs = require("fs");
+jconst fs = require("fs");
 const https = require("https");
 const { promisify } = require("util");
 
@@ -25,9 +25,9 @@ const request = promisify(https.get);
   response.on("data", (data) => (body += data));
   await response.end;
   body = JSON.parse(body);
-  const lastThreeArticles = body.slice(0, 3);
+  const lastFiveArticles = body.slice(0, 5);
 
-  const ArticleMarkDown = lastThreeArticles.reduce((acc, item) => {
+  const ArticleMarkDown = lastFiveArticles.reduce((acc, item) => {
     return acc + `- [${item.title}](${item.url}) \n`;
   }, "\n");
 
