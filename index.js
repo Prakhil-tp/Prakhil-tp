@@ -1,4 +1,4 @@
-jconst fs = require("fs");
+const fs = require("fs");
 const https = require("https");
 const { promisify } = require("util");
 
