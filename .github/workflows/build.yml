@@ -32,7 +32,7 @@ jobs:
 
       - name: Update README
         env:
-          BLOG_DISPLAY_COUNT: 1
+          BLOG_DISPLAY_COUNT: 5
         run: |-
           node index.js
           cat README.md
