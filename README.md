@@ -7,7 +7,6 @@
 ### Recent Articles / Blog Posts
 
 - [GitLab CI/CD: A guideline to set up your pipeline ](https://dev.to/prakhil_tp/gitlab-ci-cd-a-guideline-to-set-up-your-pipeline-2gkh)
-- [Tackle English by training your brain: Exercises](https://dev.to/prakhil_tp/tackle-english-by-training-your-brain-exercises-29lo)
 - [React Native CLI and Android Studio: Setting up the development environment on Linux](https://dev.to/prakhil_tp/react-native-cli-and-android-studio-setting-up-the-development-environment-on-linux-4jp6)
 - [Cron job for node scripts.](https://dev.to/prakhil_tp/cron-job-for-node-scripts-1fa6)
   &nbsp;
