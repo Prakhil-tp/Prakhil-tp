@@ -6,10 +6,10 @@
 
 ### Recent Articles / Blog Posts
 
-- [GitLab CI/CD: A guideline to set up your pipeline ](https://dev.to/prakhil_tp/gitlab-ci-cd-a-guideline-to-set-up-your-pipeline-2gkh)
-- [React Native CLI and Android Studio: Setting up the development environment on Linux](https://dev.to/prakhil_tp/react-native-cli-and-android-studio-setting-up-the-development-environment-on-linux-4jp6)
-- [Cron job for node scripts.](https://dev.to/prakhil_tp/cron-job-for-node-scripts-1fa6)
-  &nbsp;
+- [GitLab CI/CD: A guideline to set up your pipeline ](https://dev.to/prakhil_tp/gitlab-ci-cd-a-guideline-to-set-up-your-pipeline-2gkh) 
+- [React Native CLI and Android Studio: Setting up the development environment on Linux](https://dev.to/prakhil_tp/react-native-cli-and-android-studio-setting-up-the-development-environment-on-linux-4jp6) 
+- [Cron job for node scripts.](https://dev.to/prakhil_tp/cron-job-for-node-scripts-1fa6) 
+&nbsp;
 
 ---
 
