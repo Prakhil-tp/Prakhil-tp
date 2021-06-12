@@ -14,8 +14,6 @@ on:
   workflow_dispatch:
     branches:
       - master
-    
-    
 
 jobs:
   build:
@@ -39,7 +37,7 @@ jobs:
         env:
           BLOG_DISPLAY_COUNT: 5
         run: |-
-          node index.js
+          node autoUpdate.js
           cat README.md
       - name: Commit and push if changed
         run: |-

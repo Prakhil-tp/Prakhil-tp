@@ -44,7 +44,7 @@ const request = promisify(https.get);
   // Update README.md
   const readme = fs.readFileSync("README.md", "utf-8");
   const updatedReadme = readme.replace(
-    /(?<=Recent Blog Posts\n)[\s\S]*(?=&nbsp)/gm,
+    /(?<=Recent Articles \/ Blog Posts\n)[\s\S]*(?=&nbsp)/gm,
     ArticleMarkDown
   );
   fs.writeFileSync("README.md", updatedReadme, "utf-8");
