@@ -9,5 +9,8 @@
   "bugs": {
     "url": "https://github.com/Prakhil-tp/Prakhil-tp/issues"
   },
-  "homepage": "https://github.com/Prakhil-tp/Prakhil-tp#readme"
+  "homepage": "https://github.com/Prakhil-tp/Prakhil-tp#readme",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
 }
