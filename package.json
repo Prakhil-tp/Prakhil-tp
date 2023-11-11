@@ -11,6 +11,6 @@
   },
   "homepage": "https://github.com/Prakhil-tp/Prakhil-tp#readme",
   "dependencies": {
-    "axios": "^0.26.1"
+    "axios": "^1.6.0"
   }
 }
